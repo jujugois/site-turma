@@ -1,3 +1,49 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+ 
+    }
+.cabecalho{
+    background-color:#008E97;
+    color: aqua;
+    font-size: larger;
+    display: flex;
+    justify-content: baseline;
+}
+.cabecalho-imagem{
+    width: 10%;
+    height: 10%;
+
+}
+.cabecalho-itens{
+    margin: 50px 600px;
+    display: inline-block;
+}
+*{
+    
+    margin: 0;
+    padding: 0;
+ 
+    }
+.cabecalho{
+    background-color:#008E97;
+    color: aqua;
+    font-size: larger;
+    display: flex;
+    justify-content: baseline;
+}
+.cabecalho-imagem{
+    width: 10%;
+    height: 10%;
+
+}
+.cabecalho-itens{
+    margin: 50px 600px;
+    display: inline-block;
+}
+
+
 header{
     background-color:#008E97;
 }

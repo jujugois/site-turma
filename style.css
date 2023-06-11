@@ -43,12 +43,15 @@ header{
     display: inline-flex;
     margin: 50px 60px;
     padding: 30px;
+    font-size: x-large;
 }
 
 .conheça-nossa-turma {
     text-align: center;
-    padding-left: 450px;
-    font-size: 30px;
+    padding-left: 300px;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 .Texto-sala {
@@ -57,4 +60,18 @@ header{
     background-color: #fcfcfc;
     font-size: x-large;
     color: #008E97;
+}
+
+.imagem-Amanda{
+    width: 100%;
+    height: 100%;
+    max-width: 10px;
+}
+
+
+.Amanda-lista{
+    text-align: center;
+    padding: 60px;
+
+
 }

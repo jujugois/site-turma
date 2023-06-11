@@ -35,18 +35,19 @@ header{
 }
 
 .imagem-alunos {
-    width: 500px;
-   
+    width: 450px;
+    padding-left: 450px;
 }
 
 .conheça-nossa-turma {
     display: inline-flex;
     margin: 50px 60px;
+    padding: 30px;
 }
 
 .conheça-nossa-turma {
     text-align: center;
-    padding: 249x 0;
+    padding-left: 450px;
     font-size: 30px;
 }
 
